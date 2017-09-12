@@ -1,5 +1,5 @@
 
-<img src="http://logon1.shbp7.com/game/images/icon/xqqpzx.jpg" width=200>
+<img src="http://119.23.155.48/game/images/icon/xqqpzx.jpg" width=200>
 
 星球棋牌中心
 
